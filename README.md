@@ -24,25 +24,36 @@
 ## 資料の概要
 
     GirlsHacker20160626
+
+        completion (制作課題の完成品のサンプル)
+            support/index.html (制作課題の完成品のサンプル)
+
         Lesson_1 (本日の概要の資料)
-            start.md (準備資料)
-            concept.md (制作課題の説明)
+            1: start.md (準備資料)
+            2: concept.md (制作課題の説明)
 
         Lesson_2 (はじめての Bootstrap)
-            install_bootstrap.md (Bootstrap のイントール手順)
-            embed_text.md (コンテンツを埋め込む手順)
-            content.txt (埋め込むコンテンツ)
+            1: install_bootstrap.md (Bootstrap のイントール手順)
+            2: embed_text.md (コンテンツを埋め込む手順)
+            3: content.txt (埋め込むコンテンツ)
 
-            support/index.html (練習用の表示ページ)
+            support/ (制作課題を作るディレクトリ)
+            support/index.html (制作課題のページ)
             support/img/hackerzlab.jpg (表示用の画像)
 
         Lesson_3 (コンテンツを充実させる)
-            embed_sns.md (sns のコンテンツを埋め込む手順)
-            embed_test.html (sns のコンテンツを埋め込む手順)
+            1: embed_sns.md (sns のコンテンツを埋め込む手順)
+            2: embed_test.html (sns のコンテンツを埋め込みテストをするページ)
 
-            support/index.html (練習用の表示ページ)
+            support/index.html (制作課題のページ)
 
         Lesson_4 (cookie を利用した簡単なアプリ)
             cookie.md
 
 ## 関連情報
+
+    ハッカーズ Facebook ページ
+    https://www.facebook.com/HackerzLab.HKT/
+
+    ハッカーズ Twitter ページ
+    https://twitter.com/hackerz_hkt
